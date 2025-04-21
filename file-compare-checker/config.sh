@@ -1,7 +1,7 @@
 #!/bin/bash
-user="root"
-pass="r781104"
-db="Groupcall"
-table="member"
-paths="/var/www/html/groupcall/callfile"
+user="db user"
+pass="db pass"
+db="database"
+table="dbtable"
+paths="folder path for files to compare with the database"
 
