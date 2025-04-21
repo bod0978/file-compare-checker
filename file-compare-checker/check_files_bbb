@@ -1,10 +1,10 @@
 #!/bin/bash
-user="root";
-pass="r781104";
-db="Groupcall";
-table="member";
+user="db user";
+pass="db pass";
+db="database";
+table="db table";
 Gid="$1";
-paths="/var/www/html/groupcall/callfile";
+paths="Folder path for files to compare with the database";
 
 DB_COUNT=$(mysql -u${user} -p${pass} -D ${db} -se "SELECT COUNT(*) FROM ${table} where GroupID='${Gid}';")
 FILE_COUNT=$(ls -1 ${paths}/${Gid}/*.call | wc -l)
