@@ -37,11 +37,11 @@ Shell Script： Bash（與 MySQL 互動 + 檔案查核）
 2.將專案放置於 Web Server 目錄下，例如：/var/www/html/file-compare-checker/
 
 3.修改 config.sh 中的：
-	user="root"
-	pass="你的密碼"
-	db="Groupcall"
-	table="member"
-	paths="/var/www/html/groupcall/callfile"
+	user="資料庫帳號"
+	pass="資料庫密碼"
+	db="資料庫名稱"
+	table="核對的表單"
+	paths="與資料庫比對檔案的資料夾路徑"
 
 
 
