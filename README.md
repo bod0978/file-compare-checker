@@ -1,6 +1,15 @@
 # 檔案比對系統
-
 這個系統用來比對資料庫與檔案是否一致，並顯示比對結果。
+
+web 畫面
+<img width="862" alt="1" src="https://github.com/user-attachments/assets/09c10dec-797e-452b-a550-905bbcfa425c" />
+
+輸入群組號碼核對檔案
+<img width="804" alt="2" src="https://github.com/user-attachments/assets/af4d5cdd-733b-49b5-8cd5-edb3db04bff4" />
+
+輸入群組號碼核對檔案
+<img width="783" alt="3" src="https://github.com/user-attachments/assets/bfb47a20-b6bb-4657-9331-8d973ee1ffcf" />
+
 
 📁 檔案比對系統 - 建議專案結構
 file-compare-checker/
