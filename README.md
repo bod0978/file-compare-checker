@@ -5,10 +5,10 @@ web 畫面
 <img width="862" alt="1" src="https://github.com/user-attachments/assets/09c10dec-797e-452b-a550-905bbcfa425c" />
 
 輸入群組號碼核對檔案
-<img width="804" alt="2" src="https://github.com/user-attachments/assets/af4d5cdd-733b-49b5-8cd5-edb3db04bff4" />
+<img width="804" alt="2" src="https://github.com/user-attachments/assets/f21450ab-d4ea-42e0-a322-c313405c5913" />
 
 輸入群組號碼核對檔案
-<img width="783" alt="3" src="https://github.com/user-attachments/assets/bfb47a20-b6bb-4657-9331-8d973ee1ffcf" />
+<img width="783" alt="3" src="https://github.com/user-attachments/assets/074b6031-1d8c-48e4-8d65-99cb75f8b566" />
 
 
 📁 檔案比對系統 - 建議專案結構
